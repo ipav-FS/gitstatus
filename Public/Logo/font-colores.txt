@@ -1,0 +1,8 @@
+Nombre del Sitio - Calabozo del Androide.
+Font - Comic Book Regular (Pixel Saga)
+Colores a usar (en Hexadecimal)
+Gris - d8d2d4
+Verde - 3b611e
+Violeta - 680075
+Rojo claro - af4c53
+Rojo fuerte - 802a29
